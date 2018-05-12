@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31781'
     url: http://www.gutenberg.org/2009/agents/31781
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26076#Birds-from-Coahuila-Mexico
 gutenberg_bookshelf:
 - Animals-Wild-Birds
 - Natural History
