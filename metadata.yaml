@@ -1,0 +1,27 @@
+_repo: Birds-from-Coahuila-Mexico_26076
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Urban, Emil K.
+    gutenberg_agent_id: '31781'
+    url: http://www.gutenberg.org/2009/agents/31781
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Birds
+- Natural History
+gutenberg_issued: '2008-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26076'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- Mexico'
+- !lcc 'QH'
+title: Birds from Coahuila, Mexico
+url: http://www.gutenberg.org/ebooks/26076
